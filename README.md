@@ -1,4 +1,5 @@
 # gcc
+`gcc -o output_file source_file.c`
 ## Windows
 MinGW / cygwin
 ## Linux
