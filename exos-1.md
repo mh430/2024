@@ -28,7 +28,6 @@ $$
   
 **2. Implémentez avec une fonction récursive**
 
-**3. Implémentez sans récursion tout retardant les débordements**
 
 
  
