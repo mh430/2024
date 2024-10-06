@@ -1,4 +1,4 @@
-# 1. Combinaisons
+# Combinaisons
 La formule pour les combinaisons sans répétition est donnée par :
 
 $$
