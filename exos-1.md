@@ -28,13 +28,17 @@ int tail_recursive_sum(int arr[], int size, int accumulator) {
 
 int main() {
     int numbers[] = {1, 2, 3, 4, 5};
-    int size = sizeof(numbers) / sizeof(numbers[0]);
 
     int total_sum = tail_recursive_sum(numbers, size, 0);
-    printf("Sum of the array: %d\n", total_sum);  // Output: 15
+
+    printf("%d \n", total_sum); 
 
     return 0;
 }
+```
+Compilation:
+```
+gcc nomfichier.c
 ```
 # La suite de Fibonacci
 La suite de Fibonacci est une séquence de nombres définie par la relation suivante :
