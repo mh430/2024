@@ -52,7 +52,7 @@ F(n-1) + F(n-2) & \text{sinon}
 \end{cases}
 $$
 
-**Implémenter cette fonction récursive. Transformer en récursion terminale.**
+**Implémenter cette fonction récursive.**
 # Combinaisons
 La formule pour les combinaisons sans répétition est donnée par :
 
