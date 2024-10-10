@@ -84,4 +84,22 @@ $$
 **Implémenter cette fonction récursive.**  
 **Trouver un algorithme non récursif qui retarde les débordements.**
 
+# Distributeur de solution type RE2
+Vous avez trois récipients de capacités différentes. Vous devez mesurer une quantité spécifique de liquide dans l'un de ces récipients. 
+Un transfert est considéré valide uniquement s'il vide complètement le récipient source ou remplit entièrement le récipient cible.  
+  
+Objectif  
+Utilisez les récipients pour obtenir une quantité cible de liquide dans l'un des récipients.  
+  
+Nous ne prendrons en compte que les problèmes considérés comme triviaux. Un problème est trivial s'il peut être résolu en moins de 7 étapes.  
+  
+Exemple:  
+Récipient A : 13 unités (contient 8 unités)   
+Récipient B : 10 unités (contient 2 unité)  
+Récipient C : 3 unités (contient 2 unités)  
+Quantité cible: 5 unités  
+  
+Développez un programme qui simule ce processus et détermine si vous pouvez atteindre la quantité cible en utilisant les récipients.  
+
+
  
