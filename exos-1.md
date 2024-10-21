@@ -29,7 +29,7 @@ int tail_recursive_sum(int arr[], int size, int accumulator) {
 int main() {
     int numbers[] = {1, 2, 3, 4, 5};
 
-    int total_sum = tail_recursive_sum(numbers, size, 0);
+    int total_sum = tail_recursive_sum(numbers, 5, 0);
 
     printf("%d \n", total_sum); 
 
