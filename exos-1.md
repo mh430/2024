@@ -82,7 +82,6 @@ $$
 
   
 **Implémenter cette fonction récursive.**  
-**Trouver un algorithme non récursif qui retarde les débordements.**
 
 # Distributeur de solution type RE2
 Vous avez trois récipients de capacités différentes. Vous devez mesurer une quantité spécifique de liquide dans l'un de ces récipients. 
